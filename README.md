@@ -52,13 +52,11 @@
 ### 🔹 **ADVHost — Hébergement simple & solide**
 - **Ce que c’est** : une **structure d’hébergement** (sites, bots, serveurs de jeux) pensée pour la **simplicité** et la **fiabilité**.  
 - **Rôle** : fondateur, dev & ops (panel, scripts de déploiement, docs).  
-- **Stack** : Linux, NGINX, Docker (optionnel), PHP pour le panel, **Java** pour les outils Minecraft.  
-- **Lien** : *(ajoute le site dès qu’il est en ligne)*  
+- **Stack** : Linux, NGINX, Docker (optionnel), PHP pour le panel, **Java** pour les outils Minecraft.   
 
 ### 🔹 **Plugins Minecraft (Java)**
 - **Idées/axes** : anti‑cheat léger, gestion d’économie, QoL staff, warp/claims, scoreboard.  
 - **Objectifs** : code clair, perf‑friendly, docs lisibles, build CI.  
-- **Repos** : *(ajoute ici tes dépôts au fur et à mesure)*  
 
 ### 🔹 **Projets Web (HTML/CSS/PHP)**
 - **Mini‑sites** & **APIs PHP** pour s’entraîner (auth simple, formulaire, CRUD).  
