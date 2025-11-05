@@ -1,5 +1,3 @@
-# 🏠 Page d’accueil GitHub — AD
-
 ---
 
 <div align="center">
